@@ -1,6 +1,6 @@
 # Sudoku Solver 🧩
  
-A backtracking algorithm-based Sudoku solver implemented in Java, built as part of Data Structures & Algorithms coursework at Northwest Missouri State University.
+A backtracking algorithm-based Sudoku solver implemented in Java, built as part of Data Structures & Algorithms coursework.
  
 ---
  
